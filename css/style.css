@@ -1,0 +1,10 @@
+.custom-h {
+	color: #43A4DC;
+}
+.custom-h:after {
+	font-family: "Font Awesome 5 Free";
+    content: '\f107';
+    color: #43A4DC;
+    font-weight: bold;
+    float: right;
+ }
